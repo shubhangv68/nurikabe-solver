@@ -1,4 +1,4 @@
-# 683-Nurikabe
+# Nurikabe
 Semester long project for CompSci 683. Our group is focusing on Nurikabe as a CSP.
 
 Important files:
